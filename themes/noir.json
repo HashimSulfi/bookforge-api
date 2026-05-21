@@ -1,0 +1,19 @@
+{
+  "name": "noir",
+  "description": "Dark, cinematic. Psychological thrillers, crime fiction, corporate drama.",
+  "docx": {
+    "font": "Georgia",
+    "headingFont": "Arial",
+    "fontSize": 24,
+    "lineSpacing": 360,
+    "pageSize": "letter",
+    "headingColor": "1A1A2E",
+    "quoteColor": "333333",
+    "accentColor": "C9A84C",
+    "chapterSpacingBefore": 1440
+  },
+  "epub": {
+    "css": "noir.css"
+  }
+}
+
