@@ -1,0 +1,18 @@
+{
+  "name": "minimalist",
+  "description": "Clean and modern. Nonfiction, business, self-help.",
+  "docx": {
+    "font": "Calibri",
+    "headingFont": "Arial",
+    "fontSize": 22,
+    "lineSpacing": 360,
+    "pageSize": "letter",
+    "headingColor": "000000",
+    "quoteColor": "444444",
+    "accentColor": "000000",
+    "chapterSpacingBefore": 1440
+  },
+  "epub": {
+    "css": "minimalist.css"
+  }
+}

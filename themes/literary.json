@@ -1,0 +1,18 @@
+{
+  "name": "literary",
+  "description": "Elegant and warm. Literary fiction, memoirs, essays.",
+  "docx": {
+    "font": "Garamond",
+    "headingFont": "Garamond",
+    "fontSize": 24,
+    "lineSpacing": 400,
+    "pageSize": "letter",
+    "headingColor": "2C2C2C",
+    "quoteColor": "555555",
+    "accentColor": "8B6F47",
+    "chapterSpacingBefore": 1800
+  },
+  "epub": {
+    "css": "literary.css"
+  }
+}

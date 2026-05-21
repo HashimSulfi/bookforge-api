@@ -1,0 +1,18 @@
+{
+  "name": "thriller",
+  "description": "High tension. Action thrillers, spy fiction, fast-paced drama.",
+  "docx": {
+    "font": "Times New Roman",
+    "headingFont": "Arial",
+    "fontSize": 24,
+    "lineSpacing": 320,
+    "pageSize": "letter",
+    "headingColor": "8B0000",
+    "quoteColor": "222222",
+    "accentColor": "8B0000",
+    "chapterSpacingBefore": 1440
+  },
+  "epub": {
+    "css": "thriller.css"
+  }
+}
